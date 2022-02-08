@@ -8,7 +8,9 @@ If you have any questions, make a Issue and Ill be sure to respond as quick as I
 
 I realise I may not be the best, I hope you enjoy my work.
 
-Here are some of the current projects I'am/have been working on
-- [Escape](https://github.com/Retr05041/HelloWorld/tree/main/Python/2019%20and%202020/Games/Escape/Escape%20V0.0.9)
-- [Archer File Server](https://github.com/Retr05041/Archer-FS)
+Here are shortcuts to favorite programs I have made in this repo!
+- [Escape](https://github.com/Retr05041/HelloWorld/tree/main/Python/2019%20and%202020/Games/Escape/Escape%20V0.0.9) - My best game I ever made in python.
+
+Here are some of the current projects I'am/have been working on!
+- [Archer File Server](https://github.com/Retr05041/Archer-FS) - My take on a private file server
 
