@@ -9,6 +9,6 @@ If you have any questions, make a Issue and Ill be sure to respond as quick as I
 I realise I may not be the best, I hope you enjoy my work.
 
 Here are some of the current projects I'am/have been working on
-- [Escape](Python\2019 and 2020\Games\Escape\Escape V0.0.9) - My best text based adventure game
+- [Escape](Python\2019 and 2020\Games\Escape\Escape V0.0.9)
 - [Archer File Server](https://github.com/Retr05041/Archer-FS)
 
