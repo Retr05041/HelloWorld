@@ -1,0 +1,17 @@
+{% extends "masterlayout.html" %}
+{% block content %}
+
+  <title>Contact</title>
+  <h1>Contact Page</h1>
+  <p>Hey there! Here you can put your name, email, and a brief description of what you might be wanting. we will email back as
+  soon as possible to talk about meetup, money, and what exactly you would like</p>
+  <br>
+  <form action="https://formspree.io/parker@cranfield.ca" method="POST">
+    <input type="text" name="Name" placeholder="Full Name">
+    <input type="email" name="Reply to" placeholder="Email">
+    <input type="description" name="Description" placeholder="Description" style="height:100%;">
+    <input type="submit" value="Send">
+  </form>
+
+
+{% endblock content %}

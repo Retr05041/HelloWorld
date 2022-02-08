@@ -1,0 +1,3 @@
+- Fixed input errors
+- typewrighter affect for banner
+- add and changed color

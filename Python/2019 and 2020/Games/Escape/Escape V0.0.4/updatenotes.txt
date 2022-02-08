@@ -1,0 +1,8 @@
+ - added ending
+ 	- updated map
+ - fixed user input so if they put in something other than a command it doesnt crash
+ 
+Problems to Fix/update ideas: 
+ - 1e-11????
+ - new map (harder)
+- go "place" Error

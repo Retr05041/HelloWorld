@@ -1,0 +1,9 @@
+- fixed 1e-11
+- added music
+	- crededit
+	- non copyright
+- fixed go "place" bug
+
+Problems to Fix/update ideas: 
+- map update
+- Eruption inc.?

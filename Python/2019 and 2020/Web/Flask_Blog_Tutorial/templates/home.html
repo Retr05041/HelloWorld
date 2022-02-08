@@ -1,0 +1,18 @@
+{% extends "layout.html" %} <!-- makes this file a child of layout.html -->
+{% block content %} <!-- the code in here will override the content block of layout.html which is in the body of it (what we want) -->
+
+    {% for post in posts %} <!-- does for loop of posts given by the server -->
+        <!-- POST SNIPPET -->
+        <article class="media content-section">
+            <div class="media-body">
+            <div class="article-metadata">
+                <a class="mr-2" href="#">{{ post.author }}</a>
+                <small class="text-muted">{{ post.date_posted }}</small>
+            </div>
+            <h2><a class="article-title" href="#">{{ post.title }}</a></h2>
+            <p class="article-content">{{ post.content }}</p>
+            </div>
+        </article>
+    {% endfor %} <!-- ends for loop -->
+
+{% endblock content %} <!-- no need to add "content" as its already indent archived but its better for detail-->

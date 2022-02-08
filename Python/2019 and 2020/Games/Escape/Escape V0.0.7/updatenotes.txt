@@ -1,0 +1,8 @@
+- fixed input
+- changed map
+- fixed spelling
+- changed map.py to rooms.py
+
+Problems to Fix/update ideas:
+- different music added to end?
+- add a seperate map?

@@ -1,0 +1,8 @@
+- changed banner
+- added help command
+- added quit command
+
+Problems to Fix/update ideas: 
+ - 1e-11?????
+ - map update
+ - end game message?

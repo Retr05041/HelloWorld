@@ -1,0 +1,8 @@
+- map updated (hard)
+- music added
+- going backwords in rooms bug fixed
+- going through rooms without key fixed
+
+Problems to Fix/update ideas:
+- music added to end?
+- fix input?

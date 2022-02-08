@@ -1,0 +1,17 @@
+{% extends "masterlayout.html" %}
+{% block content %}
+  <title>Home</title>
+  {% for post in posts %}
+      <article class="media content-section">
+        <div class="media-body">
+          <div class="article-metadata">
+            <a class="mr-2">{{ post.name }}</a>
+            <small class="text-muted">{{ post.avaliability }}</small>
+          </div>
+          <h2><a class="article-title">Price/Hour: {{ post.pph }}</a></h2>
+          <p class="article-content">Price/Day: {{ post.ppd }}</p>
+          <img src={{ post.img }} /> <!-- style="width:100px;height:100px;" -->
+        </div>
+      </article>
+  {% endfor %}
+{% endblock content %}

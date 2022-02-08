@@ -1,0 +1,8 @@
+HOW TO RUN
+
+open terminal in folder or cd to this folder
+
+type "python3 -m http.server (port)"
+
+take out the (port) and exchange that with the port you want, if not the
+defult is :8000
