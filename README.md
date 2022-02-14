@@ -6,8 +6,6 @@ There is a lot of Python, as I started there, Some C, JS, I am currently learnin
 
 If you have any questions or there are any mistakes (as this is repo is always under development), make a Issue and I'll be sure to respond as quick as I can.
 
-I realise I may not be the best, I hope you enjoy my work.
-
 Thank you and have a wonderful day.
 
 ---
